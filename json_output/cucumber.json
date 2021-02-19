@@ -1,0 +1,105 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Login scenario",
+        "description": "",
+        "id": "login-feature;login-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8336963600,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "Guru demo page",
+            "match": {
+              "location": "OrangeCRMSteps.guru_demo_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5768792700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Click on Bank Project",
+            "match": {
+              "location": "OrangeCRMSteps.click_on_Bank_Project()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 695580300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Close the Webpage",
+            "match": {
+              "location": "OrangeCRMSteps.close_the_Webpage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 7,
+        "name": "Add new customer",
+        "description": "",
+        "id": "login-feature;add-new-customer",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7018429100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Guru demo pageTwo",
+            "match": {
+              "location": "OrangeCRMSteps.guru_demo_pageTwo()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6817203500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "click on customer name",
+            "match": {
+              "location": "OrangeCRMSteps.click_on_customer_name()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 503434400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Close the WebpageTwo",
+            "match": {
+              "location": "OrangeCRMSteps.close_the_WebpageTwo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login feature",
+    "description": "",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "file:/C:/Users/PC%20User1/Documents/DevOps/NPAutomationTest/letsKodeIt/Guru99/src/main/java/Features/Login.feature",
+    "tags": []
+  }
+]

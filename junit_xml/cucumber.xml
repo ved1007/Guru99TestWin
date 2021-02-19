@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="29.148882">
+    <testcase classname="Login feature" name="Login scenario" time="14.809266">
+        <system-out><![CDATA[Given Guru demo page........................................................passed
+Then Click on Bank Project..................................................passed
+Then Close the Webpage......................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login feature" name="Add new customer" time="14.339616">
+        <system-out><![CDATA[Given Guru demo pageTwo.....................................................passed
+Then click on customer name.................................................passed
+Then Close the WebpageTwo...................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
